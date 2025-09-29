@@ -1,0 +1,47 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Macro Data with the FRED Excel Add-in
+Abstract: This working paper is intended to be a chapter in a forthcoming book, tentatively titled Macroeconomics with Excel. The printed book will be a manual for professors, while the Excel workbooks are freely available to students. See www.depauw.edu/learn/macroexcel for more information on this project. This version was presented at the 9th annual Economics Teaching Conference on October 25, 2013.
+Classification-JEL: A2, E0, E2, E3, E4, E5 
+Keywords: FRED, macroeconomic data, Excel, teaching, data retrieval
+Note:
+Creation-Date: 2013-01- 1
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1002&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 517&nbsp;KB
+Handle: RePEc:cgt:wpaper:
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Author-Name: Raghav, Manu
+Author-Email: manuraghav@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Understanding and Teaching Within-Cluster Correlation in Complex Surveys
+Abstract: This econometrics pedagogy paper demonstrates the importance of using cluster standard errors with data generated from complex surveys. Simulation is used to show that both classic ordinary least squares and robust standard errors perform poorly in the presence of within-cluster correlated errors, while cluster standard errors are much better. We take advantage of Excel’s spreadsheet interface to produce clear, strong visuals of the data generation process and intuitively explain key results. Stata and R implementations are also provided. We conclude with suggestions for how to use these files in the classroom.
+Classification-JEL: A2, A22, A23, C80, C81, C83, C87
+Keywords: cluster correlation, complex surveys, Excel, teaching statistics, inference
+Note:
+Creation-Date: 2013-02- 1
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1008&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 679&nbsp;KB
+Handle: RePEc:cgt:wpaper:

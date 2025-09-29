@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Author-Name: Raghav, Manu
+Author-Email: manuraghav@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Understanding and Teaching Unequal Probability of Selection
+Abstract: This paper focuses on econometrics pedagogy. It demonstrates the importance of including probability weights in regression analysis using data from surveys that do not use simple random samples (SRS). We use concrete, numerical examples and simulation to show how to effectively teach this difficult material to a student audience. We relax the assumption of simple random sampling and show how unequal probability of selection can lead to biased, inconsistent OLS slope estimates. We then explain and apply probability weighted least squares, showing how weighting the observations by the reciprocal of the probability of inclusion in the sample improves performance. The exposition is non-mathematical and relies heavily on intuitive, visual displays to make the content accessible to students. This paper will enable professors to incorporate unequal probability of selection into their courses and allow students to use best practice techniques in analyzing data from complex surveys. The primary delivery vehicle is Microsoft Excel®. Two user-defined array functions, SAMPLE and LINESTW, are included in a prepared Excel workbook. We replicate all results in Stata® and offer a file for easy analysis. Documented code in Excel and Stata allows users to see each step in the sampling and probability weighted least squares algorithms.
+Classification-JEL: A2, A22, A23, C80, C81, C83, C87
+Keywords: unequal probability, complex survey, simulation, weighted regression
+Note:
+Creation-Date: 2011-10-30
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1016&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 384&nbsp;KB
+Handle: RePEc:cgt:wpaper:

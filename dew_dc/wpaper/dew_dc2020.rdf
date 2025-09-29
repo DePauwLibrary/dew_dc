@@ -1,0 +1,73 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: A Covid-19 Teaching Example: Pooled Testing with Microsoft Excel
+Abstract: This paper uses pooled testing as a teaching example for undergraduate statistics, econometrics, or quantitative methods courses. It offers step-by-step instructions to create an Excel spreadsheet that uses Monte Carlo simulation to find the optimal group size for a given infection rate. A completed version of the spreadsheet, along with readings, questions, and analytical solution is available at tiny.cc/pooledtesting.
+Classification-JEL: A2, C1, I10
+Keywords: 
+Note:
+Creation-Date: 2020-08-25
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1017&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 359&nbsp;KB
+Handle: RePEc:cgt:wpaper:
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Erdem, Havvanur
+Author-Email: 
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Author-Name: Tawadros, George
+Author-Email: 
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Estimating An Optimal Macroeconomic Uncertainty Index For Australia
+Abstract: In this article, an optimal macroeconomic uncertainty index is constructed for the Australian economy. This index is derived from a small structural macroeconomic model. The structural model is first estimated using GMM to extract the parameter estimates, which are then used to initialise maximum likelihood techniques in order to obtain the optimal coefficient values for the relevant variables. The relevant variables are then weighted by the obtained optimal coefficients and, finally, are aggregated to produce the optimal macroeconomic uncertainty index for Australian economy. The empirical results show that the uncertainty index constructed is a good indicator of the optimal economic conditions in Australia, providing a useful tool to assist the Reserve Bank of Australia in its decision-making process.
+Classification-JEL: C36; C61; E58
+Keywords: 
+Note:
+Creation-Date: 2022-07-13
+Revision-Date: 2025-06-26
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1015&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 512&nbsp;KB
+Handle: RePEc:cgt:wpaper:
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Truong, Sang
+Author-Email: 
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Visualizing Income Distribution in the United States
+Abstract: Visit research.depauw.edu/econ/incomevis to see a novel, eye-catching visual display of the income distribution in the United States that conveys fundamental information about the evolution and current level of income inequality to a wide audience. We use IPUMS CPS data to create household income deciles adjusted for price level and household size for each of the 50 states and the District of Columbia from 1976 to 2018. We adjust for state price differences from 2008 to 2018. Plotting these data gives a 3D chart that provides a startling picture of income differences within and across states over time. Those interested in further customization can use our Python visualization toolbox, incomevis, available at pypi.org/project/incomevis.
+Classification-JEL: A10, A20, J10
+Keywords: income distribution, Census data, animation, data visualization, pedagogy
+Note:
+Creation-Date: 2020-03- 1
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1005&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 2.7&nbsp;MB
+Handle: RePEc:cgt:wpaper:

@@ -1,0 +1,69 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Truong, Sang
+Author-Email: 
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Teaching Income Inequality with Data-driven Visualization
+Abstract: The distribution of household income is a central concern in economics due to its strong influence on societyâ€™s well-being and social cohesion. Yet, non-expert audiences face serious obstacles in understanding conventional measures of inequality. To effectively communicate the extent of income inequality in the United States, we have developed a novel technique for visualizing income distribution and its dispersion over time by using U.S. household income microdata from the Current Population Survey. The result is a striking dynamic animation of income distribution over time, drawing public attention and encouraging further investigation of income inequality. Detailed implementation is available at https://github.com/sangttruong/incomevis. An interactive demonstration of our project is available at https://research.depauw.edu/econ/incomevis/.
+Classification-JEL: A2, C1, D6, E6, I3, Y1
+Keywords: income inequality, CPS data, visualization, pedagogy, animation
+Note:
+Creation-Date: 2022-01- 1
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1003&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 24.3&nbsp;MB
+Handle: RePEc:cgt:wpaper:
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Barreto, Humberto
+Author-Email: hbarreto@depauw.edu
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: One-shot Inequality, Gini, and Redistribution via Microsoft Excel
+Abstract: This paper explains how to use a macro-enabled Excel workbook, Gini.xlsm, to teach basic concepts about income inequality as a standalone, one-time class at the undergraduate level. The material unfolds in a series of steps that highlight the benefits of social cooperation and enable students to explore varying degrees of redistribution. The Gini Coefficient is explained with dynamic charts that update as the student makes changes. The Excel workbook contains 13 questions and this paper provides answers. This presentation of the material was inspired by Nozickâ€™s Anarchy, State, and Utopia (relevant passages are included in the Excel workbook) and this paper contains suggestions for supplemental readings and additional ideas for class discussion. Download the freely-available Excel workbook at tiny.cc/giniexcel.
+Classification-JEL: A10, A20, D63, I3
+Keywords: inequality, Gini index, redistribution, Excel, teaching
+Note:
+Creation-Date: 2022-07- 8
+Revision-Date: 2025-06-26
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1021&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 296&nbsp;KB
+Handle: RePEc:cgt:wpaper:
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Sanders, Ralph
+Author-Email: 
+Author-Workplace-Name:Department of Economics, DePauw University
+Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/about-economics/faculty-and-staff/
+Title: Project Cash-flow Risk Resolution and Project Value
+Abstract: I examine the effects of cash-flow risk resolutions on project valuation by deriving risk-resolution-scenario-specific "families" of capital structure relations (i.e., equations for the value of the levered firm, return on levered equity, and marginal cost of capital). Although I obtain Modigliani and Millerâ€™s family of relations only as highly constrained special cases reflecting "risk-free" cash flows, I find that their qualitative insights into firm value and leverage in the presence of corporate taxes are robust across the cash-flow risk resolution scenarios examined. More practically, I find that analysts will correctly value a scale enhancing project (i.e., a project of the same risk class as the firm funded at the firmâ€™s observable leverage ratio) by discounting its net cash flows at the firmâ€™s observable weighted average cost of capital regardless of the actual way the projectâ€™s cash-flow risk actually resolves. However, analysts will misvalue projects involving changes in leverage ratio if they use a weighted average cost of capital implied by a family of capital structure relations inconsistent with the way the projectâ€™s cash-flow risk resolves (e.g., valuation errors result when analysts use Modigliani and Millerâ€™s marginal cost of capital in the real world). Employing standard alternatives to traditional weighted average cost of capital valuation (e.g., Myersâ€™ APV and Rubackâ€™s Capital Cash Flow approach) does not solve this problem). More generally, I show that practitioners best not approach project (or firm) valuation with a one-size-fits-all or favorite set of valuation equations. Rather, they must be guided by their best understanding of the way the projectâ€™s cash-flow risk resolves, hope that understanding is correct, and employ the family of relations consistent with that understanding.
+Classification-JEL: 
+Keywords: cash-flow risk, project valuation, capital structure, Modigliani and Miller, corporate finance
+Note:
+Creation-Date: 2022-07-13
+Revision-Date: 2025-07-15
+Number: 
+Publication-Status:
+Price:
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1012&amp;context=dew
+File-Format: Application/pdf
+File-Restriction:
+File-Function:
+File-Size: 597&nbsp;KB
+Handle: RePEc:cgt:wpaper:
