@@ -6,11 +6,11 @@ Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/ab
 Title: A Covid-19 Teaching Example: Pooled Testing with Microsoft Excel
 Abstract: This paper uses pooled testing as a teaching example for undergraduate statistics, econometrics, or quantitative methods courses. It offers step-by-step instructions to create an Excel spreadsheet that uses Monte Carlo simulation to find the optimal group size for a given infection rate. A completed version of the spreadsheet, along with readings, questions, and analytical solution is available at tiny.cc/pooledtesting.
 Classification-JEL: A2, C1, I10
-Keywords: 
+Keywords: coronavirus, Monte Carlo, simulation, optimization, spreadsheet, pedagogy
 Note:
 Creation-Date: 2020-08-25
 Revision-Date: 2025-07-15
-Number: 
+Number: 2020-01
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1017&amp;context=dew
@@ -18,7 +18,7 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 359&nbsp;KB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2020-01
 
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Erdem, Havvanur
@@ -32,11 +32,11 @@ Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/ab
 Title: Estimating An Optimal Macroeconomic Uncertainty Index For Australia
 Abstract: In this article, an optimal macroeconomic uncertainty index is constructed for the Australian economy. This index is derived from a small structural macroeconomic model. The structural model is first estimated using GMM to extract the parameter estimates, which are then used to initialise maximum likelihood techniques in order to obtain the optimal coefficient values for the relevant variables. The relevant variables are then weighted by the obtained optimal coefficients and, finally, are aggregated to produce the optimal macroeconomic uncertainty index for Australian economy. The empirical results show that the uncertainty index constructed is a good indicator of the optimal economic conditions in Australia, providing a useful tool to assist the Reserve Bank of Australia in its decision-making process.
 Classification-JEL: C36; C61; E58
-Keywords: 
+Keywords: Optimal Uncertainty Index; Central Bank; GMM; Optimization Algorithm
 Note:
 Creation-Date: 2022-07-13
 Revision-Date: 2025-06-26
-Number: 
+Number: 2020-02
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1015&amp;context=dew
@@ -44,7 +44,7 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 512&nbsp;KB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2020-02
 
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Truong, Sang
@@ -62,7 +62,7 @@ Keywords: income distribution, Census data, animation, data visualization, pedag
 Note:
 Creation-Date: 2020-03- 1
 Revision-Date: 2025-07-15
-Number: 
+Number: 2020-03
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1005&amp;context=dew
@@ -70,4 +70,4 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 2.7&nbsp;MB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2020-03

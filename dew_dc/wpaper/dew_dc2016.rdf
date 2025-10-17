@@ -10,11 +10,11 @@ Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/ab
 Title: Does the Early Bird Catch the Worm or a Lower GPA? Evidence from a Liberal Arts College
 Abstract: Colleges and universities with capacity constraints like to offer early morning classes to maximize the use of classrooms. Moreover, evenings are often reserved for extra-curricular activities. However, research from psychology has shown that a teenager’s mind benefits from additional sleep during early morning hours. We use data from a selective liberal arts college that assigns students randomly to different sections of the same course. This creates a natural experiment. Our paper shows that after controlling for other factors, students in early morning sections earn lower grades than students in sections of the same course offered later in the day. The result holds for all the courses offered at this institution. Grades are especially low for 8 am and 9 am classes for both genders, although the effect is larger for male students. This suggests that trade-offs exist between optimal use of classroom space and learning outcomes for students.
 Classification-JEL: I20, I21, I23, A22, Z18
-Keywords: 
+Keywords: Class time, grades, GPA, student learning
 Note:
 Creation-Date: 2016-03- 9
 Revision-Date: 2025-06-26
-Number: 
+Number: 2016-01
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1014&amp;context=dew
@@ -22,7 +22,7 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 449&nbsp;KB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2016-100
 
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Barreto, Humberto
@@ -32,11 +32,11 @@ Author-Workplace-Homepage: https://www.depauw.edu/academics/majors-and-minors/ab
 Title: Let’s Put Demography Back into Economics: Population Pyramids in Excel
 Abstract: In 1960, George Stigler wrote that, “In 1830, no general work in economics would omit a discussion of population, and in 1930, hardly any general work said anything about population.” Today, the economics curriculum remains largely devoid of demography and this needs to change immediately. After witnessing a population explosion in the last half of the 20th century, fertility rates are crashing throughout the world. We are in the midst of another demographic sea change, slamming on the brakes right after accelerating faster than ever before. This has important consequences for economies everywhere. Instead of glibly tossing a dependency ratio onto a slide, this paper offers an easy way to improve demographic literacy in undergraduate economics students using population pyramids. Hypothetical data are used to explain the pyramid and teach its dynamic properties, then real-world data are used to provide historical context, current demographic snapshots, and a glimpse of the future. Throughout, Microsoft Excel is used and its ability to download data directly from the US Census Bureau’s International Data Base with a single click of a button provides a flexible, powerful tool to explore various countries. Download PopulationPyramid.xlsm from academic.depauw.edu/~hbarreto/working and follow along with the instructions provided in this paper.
 Classification-JEL: A1, A2, J1
-Keywords: 
+Keywords: teaching, pedagogy, education, cohort, ageing, demographics
 Note:
 Creation-Date: 2016-05-11
 Revision-Date: 2025-07-15
-Number: 
+Number: 2016-02
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1006&amp;context=dew
@@ -44,7 +44,7 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 497&nbsp;KB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2016-02
 
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Diette, Timothy
@@ -62,7 +62,7 @@ Keywords: Class Meeting Frequency, Grades, GPA, Student Learning
 Note:
 Creation-Date: 2016-08-11
 Revision-Date: 2025-06-26
-Number: 
+Number: 2016-03
 Publication-Status:
 Price:
 File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1013&amp;context=dew
@@ -70,4 +70,4 @@ File-Format: Application/pdf
 File-Restriction:
 File-Function:
 File-Size: 486&nbsp;KB
-Handle: RePEc:cgt:wpaper:
+Handle: RePEc:dew:wpaper:2016-101
